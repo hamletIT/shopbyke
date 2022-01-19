@@ -19,6 +19,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="col-md-5">
 				
 					<div class="address">
+						
 					    <p style="color: #fff;">Duq karox eq hajaxel mez mot haciv@ veranorogelu,xorhdatvutyun stanalu, spasarkelu hamarL: Inchpes naev menq kazmapkerpum enq arshavner ev hetaqrqir mijocarumner</p>
 		                <p style="color: #fff;">Yerevan</p>
 						<p style="color: #fff;">str,Qristafor</p>	
