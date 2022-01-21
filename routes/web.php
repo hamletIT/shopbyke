@@ -63,4 +63,4 @@ Route::get('sendbasicemail',[ProductController::class,'basic_email']);
 // Route::get('sendhtmlemail',[ProductController::class,'html_email']);
 // Route::get('sendattachmentemail',[ProductController::class,'attachment_email']);
 
-
+Route::get('lang/{locale}', 'HomeController@lang');
